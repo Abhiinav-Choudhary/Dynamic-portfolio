@@ -1,0 +1,52 @@
+{
+  "portfolios": [
+    {
+      "id": "2714",
+      "name": "Abhinav",
+      "title": "web dev",
+      "tagline": "i love dev when its on web",
+      "profileImage": "https://img.freepik.com/premium-photo/memoji-emoji-handsome-smiling-man-white-background_826801-6987.jpg?semt=ais_hybrid&w=740&q=80",
+      "bio": "no dev no web",
+      "email": "abhiram@gmail.com",
+      "phone": "9179818502",
+      "location": "raipur ",
+      "socials": "na",
+      "skills": "React , Node , javascript",
+      "service1": "website development",
+      "service2": "cloud support",
+      "service3": "na",
+      "project1": "smart attendence system",
+      "project2": "chatting website",
+      "project3": "Product buy web",
+      "testimonial": "na",
+      "blogTitle": "na",
+      "blogSummary": "na",
+      "contactMsg": "lts work if its on dev and web",
+      "template": "B"
+    },
+    {
+      "id": "039b",
+      "name": "Abhinav",
+      "title": "any developer",
+      "tagline": "devloper loves",
+      "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuMsbecBpCmot5jojUdMRT08Zo-E_JKWG1ig&s",
+      "bio": "i love developing modern websites",
+      "email": "abhiram@gmail.com",
+      "phone": "09981008708",
+      "location": "jaipur city",
+      "socials": "",
+      "skills": "ml , mernstack , docker , postgresql etc",
+      "service1": "data web",
+      "service2": "machine learner",
+      "service3": "web dev",
+      "project1": "point scoring web",
+      "project2": "property deal web",
+      "project3": "na",
+      "testimonial": "work with someone who works on dev",
+      "blogTitle": "",
+      "blogSummary": "",
+      "contactMsg": "work work dev web lets work on dev",
+      "template": "A"
+    }
+  ]
+}
