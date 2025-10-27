@@ -43,4 +43,18 @@ Users can select from multiple templates, fill out a detailed multi-section form
 ---
 
 ## 🧩 Folder Structure
-
+src/
+├─ api/
+│ └─ portfolioAPI.js
+├─ components/
+│ ├─ TemplateSelector.jsx
+│ ├─ PortfolioForm.jsx
+│ ├─ ProfileCard.jsx
+│ ├─ templates/
+│ │ ├─ TemplateA.jsx
+│ │ └─ TemplateB.jsx
+├─ pages/
+│ ├─ Home.jsx
+│ └─ PortfolioPage.jsx
+├─ App.jsx
+└─ main.jsx
